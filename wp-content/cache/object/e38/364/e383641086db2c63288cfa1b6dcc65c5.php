@@ -1,0 +1,1 @@
+þGY<?php exit; ?>a:1:{s:7:"content";a:6:{s:14:"_wpml_inactive";b:1;s:23:"active_sitewide_plugins";b:1;s:25:"revslider_change_database";b:1;s:19:"wp-optimize-logging";b:1;s:27:"woocommerce_lock_down_admin";b:1;s:29:"_transient_timeout_doing_cron";b:1;}}
